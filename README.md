@@ -1,3 +1,3 @@
 # Challenge project - Build a minigame console app with GitHub Copilot
 
-Starter and Final code for the Challenge project: "Challenge project - Build a minigame console app with GitHub Copilot". To check the solution, change the branch to **Solution**.
+This project contains the starter and final code for the "Challenge project - Build a minigame console app with GitHub Copilot". The solution is implemented in `app.py` and utilizes various Python libraries and modules to create a console-based mini-game. The code is well-documented and easy to follow, making it a great learning resource for those looking to improve their Python skills.
